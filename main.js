@@ -12,4 +12,6 @@ function main() {
 	console.log('text:', anotherFunction());
 	
 	console.log('power number:', calculatePower(7, 2));
+
+	console.log('power number:', calculatePower(4, 5));
 }
